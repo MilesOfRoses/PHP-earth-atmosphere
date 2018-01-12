@@ -1,0 +1,46 @@
+    body {
+        background-image: url(https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/moving-through-stars-in-space_-1zccenlb__F0000.png);
+    }
+
+    #wrapper{
+      background-color: white;
+      width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+      padding-top: 5px;
+      margin-top: 100px;
+      border-radius: 20px;
+    } 
+
+  input[type="submit"], #again {
+    background-color: #ffc300; 
+    width: 200px; /* width of image */
+    height: 50px; /* height of image */
+    border: 0;
+    font-size: 25px;
+    cursor:pointer;
+    border-radius: 15px;
+}
+
+#again{
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 10px;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+h1{
+  text-align: center;
+}
+
+#calculate{
+  text-align: center;
+}
